@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["platform|lib/platform.dart","process|lib/src/interface/common.dart","process|lib/src/interface/process_manager.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","io"],"hasMain":false}

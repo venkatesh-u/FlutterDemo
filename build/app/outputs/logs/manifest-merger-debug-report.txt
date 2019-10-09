@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:6:1-33:12
+INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:6:1-33:12
+INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:6:1-33:12
+INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:6:1-33:12
+MERGED from [:video_player] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/video_player/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:connectivity] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/connectivity/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-10:12
+MERGED from [:device_info] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/device_info/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.6.aar/f9cd0ec78887622d5a7aed711684e5fb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.6.aar/b0c4a8b6d25e48187cb7360b2d46c856/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.6.aar/5a2cfdd06b4a495489c26a05fd66c4b1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.6.aar/3ad79e0840abd8abf291b9b5768e8bc5/AndroidManifest.xml:17:1-26:12
+INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:6:1-33:12
+INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:6:1-33:12
+INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:6:1-33:12
+	package
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:7:5-38
+		INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:6:1-33:12
+		INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:6:1-33:12
+		INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:6:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:13:22-64
+application
+ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:20:5-32:19
+MERGED from [:url_launcher] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+	android:label
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:20:67-90
+	android:icon
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:20:91-125
+	android:name
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:20:18-66
+activity#io.flutter.demo.gallery.MainActivity
+ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:21:9-31:20
+	android:launchMode
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:22:19-49
+	android:hardwareAccelerated
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:25:19-53
+	android:windowSoftInputMode
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:26:19-61
+	android:configChanges
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:24:19-150
+	android:theme
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:23:19-72
+	android:name
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+MERGED from [:video_player] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/video_player/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/video_player/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/connectivity/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/connectivity/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/device_info/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/device_info/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.6.aar/f9cd0ec78887622d5a7aed711684e5fb/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.6.aar/f9cd0ec78887622d5a7aed711684e5fb/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.6.aar/b0c4a8b6d25e48187cb7360b2d46c856/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.6.aar/b0c4a8b6d25e48187cb7360b2d46c856/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.6.aar/5a2cfdd06b4a495489c26a05fd66c4b1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.6.aar/5a2cfdd06b4a495489c26a05fd66c4b1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.6.aar/3ad79e0840abd8abf291b9b5768e8bc5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.6.aar/3ad79e0840abd8abf291b9b5768e8bc5/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/android/app/src/main/AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/connectivity/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.6.aar/3ad79e0840abd8abf291b9b5768e8bc5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/venkatesh/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.6.aar/3ad79e0840abd8abf291b9b5768e8bc5/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:connectivity] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/connectivity/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:connectivity] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/connectivity/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from [:connectivity] /home/venkatesh/FlutterSDK/flutter/examples/flutter_gallery/build/connectivity/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:22-73
